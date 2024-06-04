@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Person Image](./image.png)
+![Person Image](./person.png)
 
 <h3 align="center">Feel free to star this project! ⭐</h3>
 <h3 align="center">Only Windows supported! ✔</h3>
