@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VatosV2/Nexus-MultiTool">
-    <img src="[https://cdn.discordapp.com/attachments/1209895707675205653/1209919950689411092/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F_1.png?ex=665eab03&is=665d5983&hm=235d11555684aa276595979800726b7eb3838bf012b6e5b6e02db0479982ea42&](https://media.discordapp.net/attachments/1220192119407247533/1247595974067491018/cross.png?ex=666099cb&is=665f484b&hm=1843607bdd6220df282f77ff19049c462910f92cea796fa45f6bf71829f3d188&=&format=webp&quality=lossless)" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1209895707675205653/1209919950689411092/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F_1.png?" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">[Person Multitool] - discord.gg/person</h3>
