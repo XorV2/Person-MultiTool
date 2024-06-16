@@ -6,7 +6,7 @@
   <h3 align="center">[Person Multitool] - discord.gg/person</h3>
 
   <p align="center">
-    Person-MultiTool is a Multitool Made to allow you to have more fun and freedom on discord
+    This is the free version of this discord multi-tool, the paid version can be found <a href="https://discordup.mysellix.io/product/person-multitool">here</a>
     <br/>
     <br/>
     <a href="https://discord.gg/person">Discord</a>
